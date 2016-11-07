@@ -1,0 +1,28 @@
+body {
+    background-image: url(fondo-lineas.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+}
+div {
+    border: 5px #347bc1 solid;
+    margin: 10px 1000px 10px 50px;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+
+    }
+
+a:hover {
+    color: #4fe23c;    
+    animation-duration: 2s;
+}
+
+h1 {
+    margin: 10px 1000px 10px 50px;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    color: #255f9a;
+        
+}
